@@ -1,0 +1,7 @@
+{
+  "name": "ValetDesk Technical Assignment",
+  "description": "A mobile-inspired React application for managing parking tickets, featuring item listing, detailed views, and a creation form with mock backend integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
